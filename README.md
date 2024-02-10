@@ -23,6 +23,6 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ## Credits
 
-- Back-end console created by Kryuel and MounimNadir, students of ALX SE.
+- Back-end console created by Kryuel and Mounim Nadir, students of ALX SE.
 
 
