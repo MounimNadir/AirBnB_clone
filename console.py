@@ -25,8 +25,9 @@ class HBNBCommand(cmd.Cmd):
         """
         Does nothing when an empty line is entered .
         """
-    def help_quit(self, arg):
-        """  """
+    def help_quit(self):
+        
+        """Display help message for quit command"""
         print("Quit command to exit the program")
 
     def do_quit(self, arg):
